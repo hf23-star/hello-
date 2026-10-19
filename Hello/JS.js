@@ -1,1 +1,2 @@
+<!DOCTYPE JS>
 window.open();
