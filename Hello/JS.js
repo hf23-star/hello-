@@ -1,1 +1,2 @@
-window.open();
+<!DOCTYPE JAVASCRIPT>
+  window.open();
